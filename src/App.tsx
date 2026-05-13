@@ -9,6 +9,7 @@ const hotel = [
     reviews: 342,
     price: 185000,
     oldPrice: 220000,
+    currency: "FCFA",
 
     image: "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&q=80",
 
@@ -38,7 +39,8 @@ const hotel = [
         price: 185000,
         capacity: 2,
         size: 28,
-        beds: "1 lit King"
+        beds: "1 lit King",
+        currenccy: "FCFA"
       },
 
       {
@@ -47,7 +49,8 @@ const hotel = [
         price: 320000,
         capacity: 4,
         size: 60,
-        beds: "2 lits King"
+        beds: "2 lits King",
+        currency: "FCFA"
       }
     ],
 
@@ -67,6 +70,7 @@ const hotel = [
 
     price: 95000,
     oldPrice: 120000,
+    currency: "FCFA",
 
     image: "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800&q=80",
 
@@ -94,7 +98,8 @@ const hotel = [
         price: 95000,
         capacity: 2,
         size: 24,
-        beds: "1 lit Queen"
+        beds: "1 lit Queen",
+        cccurrency:  "FCFA"
       }
     ],
 
@@ -114,6 +119,7 @@ const hotel = [
 
     price: 120000,
     oldPrice: 150000,
+    currency : "FCFA",
 
     image: "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800&q=80",
 
@@ -141,7 +147,8 @@ const hotel = [
         price: 120000,
         capacity: 3,
         size: 40,
-        beds: "1 lit King"
+        beds: "1 lit King",
+        currency : "FCFA"
       }
     ],
 
